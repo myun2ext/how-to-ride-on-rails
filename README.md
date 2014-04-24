@@ -3,6 +3,7 @@ How to Ride the ruby on Rails
 **We want ride to the Ruby on Rails!!**
 
 * **What's MVC-Architecture?**
+* Getting Started
 * **Controller**
 * **Models**
 * **View**
