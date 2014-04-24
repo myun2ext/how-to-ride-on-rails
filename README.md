@@ -8,9 +8,5 @@ How to Ride the ruby on Rails
 * View
  * Layout
  * Assets
+* bundler and gems
 * Routing
-* 
-
-## Accessories
-
-* **`bundler`** gem
