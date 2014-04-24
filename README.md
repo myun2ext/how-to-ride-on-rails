@@ -10,6 +10,7 @@ How to Ride the ruby on Rails
  * **Assets**
 * **bundler and gems**
 * **Routing**
+ * REST architecturing
 
 ## More Rails.
 
@@ -19,7 +20,7 @@ How to Ride the ruby on Rails
 
 ## Better speedy your Life
 
-* **Haml**
+* **Haml** gem
 * Sass or Less
 
 ## Protected your Cars (Code and Products)
