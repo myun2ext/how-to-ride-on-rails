@@ -24,7 +24,7 @@ How to Ride the ruby on Rails
 
 * **Sweet Haml** are take your mind off bitter **HTML**
 * Delicious Pre-Processor of CSS (Sass or Less)
-* Coffee
+* Braces Enough Already!! (JavaScript change to Coffee Script)
 
 ## Protected your Cars (Code and Products)
 
