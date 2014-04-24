@@ -29,3 +29,9 @@ How to Ride the ruby on Rails
 
 * RSpec
 * Guard
+
+## Do not DIY / Ready-tools are Solve your Problems.
+
+## Productioning
+
+* deploymented by Capistrano
