@@ -22,8 +22,9 @@ How to Ride the ruby on Rails
 
 ## Better speedy your Life
 
-* **Haml** gem
+* **Sweet Haml** are take your mind off bitter **HTML**
 * Sass or Less
+* Coffee
 
 ## Protected your Cars (Code and Products)
 
