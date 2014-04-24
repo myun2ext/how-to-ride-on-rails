@@ -11,7 +11,7 @@ How to Ride the ruby on Rails
  * **Assets**
 * **Routing**
  * REST architecturing
- * Are you RESTful??
+ * Are you **RESTful**??
 * **bundler and gems**
 * Scaffolding
 
@@ -35,6 +35,13 @@ How to Ride the ruby on Rails
 ## Do not DIY! Ready-Tools are Solve your Problems
 
 * **User login / Authentication** -> Suggesting for: **"Devise" Gem**
+* File Uploading Suggested for: **"Paperclip" Gem**
+
+## MVC Layers is not Enough??
+
+* Presentation(Decoration) Layer
+ * Draper
+ * ActiveDecorator
 
 ## Productioning
 
