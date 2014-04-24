@@ -9,3 +9,13 @@ Getting Started
 ```
 $ rails new [Project Name]
 ```
+
+## Launch the WEBrick Server
+
+```
+$ rails server
+```
+
+alias `rails s`
+
+port number specified to `-p [port number]
