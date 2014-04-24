@@ -17,6 +17,10 @@ How to Ride the ruby on Rails
  * Association
  * scope
 
+## Better speedy your Life
+
+* **Haml**
+
 ## Protected your Cars (Code and Products)
 
 * RSpec
