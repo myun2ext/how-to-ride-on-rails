@@ -16,3 +16,8 @@ How to Ride the ruby on Rails
 * Models
  * Association
  * scope
+
+## Protected your Cars (Code and Products)
+
+* RSpec
+* Guard
