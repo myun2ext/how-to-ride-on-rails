@@ -20,7 +20,7 @@ How to Ride the ruby on Rails
  * Association
  * scope
 
-## Better speedy your Life
+## Better speedy your written
 
 * **Sweet Haml** are take your mind off bitter **HTML**
 * Delicious Pre-Processor of CSS (Sass or Less)
@@ -33,7 +33,7 @@ How to Ride the ruby on Rails
 
 ## Do not DIY! Ready-Tools are Solve your Problems
 
-* User Login / Authentication -> Suggest: "Devise" Gem
+* **User login / Authentication** -> Suggesting for: **"Devise" Gem**
 
 ## Productioning
 
