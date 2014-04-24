@@ -18,4 +18,6 @@ $ rails server
 
 alias `rails s`
 
-port number specified to `-p [port number]
+Port Number not specified to `3000`, If you need changed to `-p [port number]` parameter spcify.
+
+Access by your Blowser to `http://[ServerAddress]:3000`
