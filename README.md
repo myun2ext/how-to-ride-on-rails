@@ -11,6 +11,7 @@ How to Ride the ruby on Rails
  * **Assets**
 * **Routing**
  * REST architecturing
+ * Are you RESTful??
 * **bundler and gems**
 * Scaffolding
 
