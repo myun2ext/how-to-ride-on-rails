@@ -32,6 +32,8 @@ How to Ride the ruby on Rails
 
 ## Do not DIY! Ready-Tools are Solve your Problems
 
+* User Login / Authentication -> Suggest: "Devise" Gem
+
 ## Productioning
 
 * deploymented by Capistrano
