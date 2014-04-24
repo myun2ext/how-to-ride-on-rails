@@ -8,9 +8,10 @@ How to Ride the ruby on Rails
 * **View**
  * **Layout**
  * **Assets**
-* **bundler and gems**
 * **Routing**
  * REST architecturing
+* **bundler and gems**
+* Scaffolding
 
 ## More Rails.
 
