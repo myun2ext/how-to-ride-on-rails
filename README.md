@@ -1,3 +1,7 @@
-How to Ride ruby on Rails
+How to Ride the ruby on Rails
 ==================
-We want to ride the **Ruby on Rails!!** 
+**We want ride to the Ruby on Rails!!** 
+
+## Accessories
+
+* **`bundler`** gem
